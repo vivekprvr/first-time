@@ -53,8 +53,8 @@
 // Utility classes
 @import "utilities";
 
-.test{
-	color: red;
+.tests{
+	color: blue;
 	display: flex;
 }
 
@@ -63,3 +63,5 @@
 		margin:#{$i*5};
 	}
 }
+
+

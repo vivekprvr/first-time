@@ -4676,8 +4676,8 @@ a.text-danger:focus, a.text-danger:hover {
   .hidden-print {
     display: none !important; } }
 
-.test {
-  color: red;
+.tests {
+  color: blue;
   display: flex; }
 
 .m-t-5 {
